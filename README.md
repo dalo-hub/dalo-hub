@@ -6,6 +6,14 @@ Systems Engineer and Frontend Developer with a genuine interest in building appl
 
 I enjoy taking on new challenges, learning from every experience, and contributing to projects where innovation and quality make the difference. My goal is to continue growing in the world of web development and to build solutions that make a lasting impact.
 
+<p align="left">
+  <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/dalo-hub?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  <a href="https://github.com/dalo-hub?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/dalo-hub?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/dalo-hub/Simple-View-Counter">
+    <img alt="views" title="GitHub profile views" src="https://api.visitorbadge.io/api/visitors?path=dalo-hub"/></a>
+</p>
+
 ## 🌟 About Me
 
 - 🚀 Frontend-focused Systems Engineer
