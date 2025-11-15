@@ -1,10 +1,23 @@
 # Hi there 👋 Daniel here!
 
+## Frontend Developer • Systems Engineer • Clean Code Enthusiast
+
+I build modern, efficient, and accessible interfaces with a strong focus on scalability and good engineering practices.
+I love working with JavaScript/TypeScript ecosystems, crafting UI with React or Angular, and keeping workflows clean with testing, automation, and smart tooling.
+
+I enjoy minimalism, intuitive UX, and improving things one pixel at a time.
+
 ## 🌟 About Me
 
-Systems Engineer with a strong focus on frontend development. Passionate about creating modern, scalable, and accessible interfaces. Practical experience with React, Angular, and TypeScript, working in agile environments with automated testing. I'm motivated to solve real-world problems through intuitive and efficient solutions. I aim to add value to teams that drive technological innovation.
+- 🚀 Frontend-focused Systems Engineer
 
----
+- 🎨 Passionate about design systems, clean architectures, and accessible UIs
+
+- 🧪 Improving daily through testing, patterns, and better developer experience
+
+- 🛠 Always refining my environment (Arch btw)
+
+- 🤓 I genuinely enjoy learning — especially the small details that most people ignore
 
 ## 🛠️ My Tech Stack
 
