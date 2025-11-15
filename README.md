@@ -1,11 +1,10 @@
-# Hi there 👋 Daniel here!
+# :wave: Hi there! DALO here!
 
-## Frontend Developer • Systems Engineer • Clean Code Enthusiast
+`Systems Engineer - Frontend developer`
 
-I build modern, efficient, and accessible interfaces with a strong focus on scalability and good engineering practices.
-I love working with JavaScript/TypeScript ecosystems, crafting UI with React or Angular, and keeping workflows clean with testing, automation, and smart tooling.
+Systems Engineer and Frontend Developer with a genuine interest in building applications that feel as good as they work.
 
-I enjoy minimalism, intuitive UX, and improving things one pixel at a time.
+I enjoy taking on new challenges, learning from every experience, and contributing to projects where innovation and quality make the difference. My goal is to continue growing in the world of web development and to build solutions that make a lasting impact.
 
 ## 🌟 About Me
 
