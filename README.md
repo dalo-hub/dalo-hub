@@ -86,19 +86,14 @@ I enjoy minimalism, intuitive UX, and improving things one pixel at a time.
   <img width="6" />
   <img height="30" src="https://cdn.simpleicons.org/hyprland" alt="Hyprland logo"  />
   <img width="6" />
-  <!--TEMPORAL-->
-  <img height="30" src="https://sw.kovidgoyal.net/kitty/_static/kitty.svg" alt="Kitty logo"  />
-  <img width="6" />
   <img height="30" src="https://cdn.simpleicons.org/brave" alt="Brave logo"  />
   <img width="6" />
+  <img height="30" src="https://sw.kovidgoyal.net/kitty/_static/kitty.svg" alt="Kitty logo"  />  
+  <img width="6" />
   <!--TEMPORAL-->
-  <img height="30" src="https://raw.githubusercontent.com/simple-icons/simple-icons/c71019df928d3b83a5628858dc72f2cb63375bb2/icons/cursor.svg" alt="Cursor logo"  />
+  <img height="30" src="https://cdn.simpleicons.org/vscodium" alt="Vscodium logo"  />
   <img width="6" />
-  <img height="30" src="https://cdn.simpleicons.org/openai" alt="Open AI logo"  />
-  <img width="6" />
-  <img height="30" src="https://cdn.simpleicons.org/claude" alt="Claude AI logo"  />
-  <img width="6" />
-  <img height="30" src="https://cdn.simpleicons.org/googlegemini" alt="Gemini logo"  />
+  <img height="30" src="https://cdn.simpleicons.org/githubcopilot/000000/FFFFFF" alt="V0 logo"  />
   <img width="6" />
   <img height="30" src="https://cdn.simpleicons.org/v0/000000/FFFFFF" alt="V0 logo"  />
 </div>
