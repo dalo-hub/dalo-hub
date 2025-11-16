@@ -85,7 +85,7 @@ I enjoy taking on new challenges, learning from every experience, and contributi
 <div align="left">
   <h3>My ricing</h3>
   <img src="https://cdn.simpleicons.org/thinkpad" alt="Thinkpad" align=center height=30>  <img width="6" />
-    <img src="https://cdn.simpleicons.org/linux" alt="Linux" align=center height=30>  <img width="6" />
+  <img src="https://cdn.simpleicons.org/linux" alt="Linux" align=center height=30>  <img width="6" />
   <img src="https://cdn.simpleicons.org/archlinux" alt="Archlinux" align=center height=30>  <img width="6" />
   <img src="https://cdn.simpleicons.org/hyprland" alt="Hyprland" align=center height=30>  <img width="6" />
   <img src="https://cdn.simpleicons.org/brave" alt="Brave" align=center height=30>  <img width="6" />
@@ -93,4 +93,17 @@ I enjoy taking on new challenges, learning from every experience, and contributi
   <img src="https://cdn.simpleicons.org/githubcopilot/000/fff" alt="Copilot" align=center height=30>
 </div>
 
+<div align="left">
+  <h3>Learning platforms I use</h3>
+  <img src="https://cdn.simpleicons.org/udemy" alt="Udemy" align=center height=30>  <img width="6" />
+  <img src="https://cdn.simpleicons.org/roadmap.sh/000/fff" alt="Roadmap.sh" align=center height=30>  <img width="6" />
+  <img src="https://cdn.simpleicons.org/platzi" alt="Platzi" align=center height=30>  <img width="6" />
+</div>
+
+<div align="left">
+  <h3>AI tools I work with</h3>
+  <img src="https://cdn.simpleicons.org/openai" alt="OpenAI" align=center height=30>  <img width="6" />
+  <img src="https://cdn.simpleicons.org/claude" alt="Claude" align=center height=30>  <img width="6" />
+  <img src="https://cdn.simpleicons.org/v0/000/fff" alt="V0" align=center height=30>  <img width="6" />
+</div>
 
