@@ -17,18 +17,44 @@ I enjoy taking on new challenges, learning from every experience, and contributi
 
 ## 🛠️ My Tech Stack
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalo-hub&layout=donut"  />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalo-hub&layout=donut-vertical"  />
 
 ###
 
 <div align="left">
-  <h3>Core Technologies</h3>
+  <h3>Structure & Styling</h3>
   <img height="30" src="https://cdn.simpleicons.org/html5" alt="HTML5 logo"  />
   <img width="6" />
   <img height="30" src="https://cdn.simpleicons.org/css" alt="CSS3 logo"  />
   <img width="6" />
+  <img height="30" src="https://cdn.simpleicons.org/tailwindcss" alt="Tailwind CSS logo"  />
+  <img width="6" />
+  <img height="30" src="https://cdn.simpleicons.org/sass" alt="Sass logo"  />
+</div>
+
+<div align="left">
+  <h3>Programming Languages</h3>
   <img height="30" src="https://cdn.simpleicons.org/javascript" alt="JavaScript logo"  />
   <img width="6" />
+  <img height="30" src="https://cdn.simpleicons.org/typescript" alt="TypeScript logo"  />
+</div>
+
+<div align="left">
+  <h3>Frameworks & Libraries</h3>
+  <img height="30" src="https://cdn.simpleicons.org/react" alt="React logo"  />
+  <img width="6" />
+  <img height="30" src="https://cdn.simpleicons.org/angular/0F0F11/FFFFFF" alt="Angular logo"  />
+  <img width="6" />
+  <img height="30" src="https://cdn.simpleicons.org/reactrouter" alt="React Router logo"  />
+  <img width="6" />
+  <img height="30" src="https://cdn.simpleicons.org/shadcnui/181717/ffffff" alt="shadcn/ui logo"  />
+  <img width="6" />
+  <img height="30" src="https://cdn.simpleicons.org/axios" alt="Axios logo"  />
+  <img width="6" />
+</div>
+
+<div align="left">
+  <h3>Development Tools & Workflow</h3>
   <img height="30" src="https://cdn.simpleicons.org/git" alt="Git logo"  />
   <img width="6" />
   <img height="30" src="https://cdn.simpleicons.org/github/181717/ffffff" alt="GitHub logo"  />
@@ -39,42 +65,21 @@ I enjoy taking on new challenges, learning from every experience, and contributi
   <img width="6" />
   <img height="30" src="https://cdn.simpleicons.org/pnpm" alt="PNPM logo"  />
   <img width="6" />
-  <img height="30" src="https://cdn.simpleicons.org/react" alt="React logo"  />
-  <img width="6" />
-  <img height="30" src="https://cdn.simpleicons.org/reactrouter" alt="React Router logo"  />
-  <img width="6" />
-  <img height="30" src="https://cdn.simpleicons.org/shadcnui/181717/ffffff" alt="shadcn/ui logo"  />
-  <img width="6" />
-  <img height="30" src="https://cdn.simpleicons.org/axios" alt="Axios logo"  />
-  <img width="6" />
-  <img height="30" src="https://cdn.simpleicons.org/angular/0F0F11/FFFFFF" alt="Angular logo"  />
-  <img width="6" />
-  <img height="30" src="https://cdn.simpleicons.org/tailwindcss" alt="Tailwind CSS logo"  />
-  <img width="6" />
-  <img height="30" src="https://cdn.simpleicons.org/sass" alt="Sass logo"  />
-  <img width="6" />
   <img height="30" src="https://cdn.simpleicons.org/prettier" alt="Prettier logo"  />
   <img width="6" />
   <img height="30" src="https://cdn.simpleicons.org/vite" alt="Vite logo"  />
   <img width="6" />
 </div>
 
-###
+<div align="left">
+  <h3>Testing tools</h3>
+  <img height="30" src="https://cdn.simpleicons.org/vitest" alt="Vitest logo"  />
+</div>  
 
 <div align="left">
-  <h3>Currently Learning</h3>
-  <img height="30" src="https://cdn.simpleicons.org/bem/000000/FFFFFF" alt="BEM logo"  />
-  <img width="6" />
-  <img height="30" src="https://cdn.simpleicons.org/eslint" alt="ESLint logo"  />
-  <img width="6" />
-  <img height="30" src="https://cdn.simpleicons.org/vitest" alt="Vitest logo"  />
-  <img width="6" />
-  <img height="30" src="https://cdn.simpleicons.org/jest" alt="Jest logo"  />
-  <img width="6" />
-  <img height="30" src="https://cdn.simpleicons.org/testinglibrary" alt="Testing Library logo"  />
-  <img width="6" />
-  <img height="30" src="https://cdn.simpleicons.org/typescript" alt="TypeScript logo"  />
-</div>
+  <h3>Deployment</h3>
+  <img height="30" src="https://cdn.simpleicons.org/vercel/000/fff" alt="Vercel logo"  />
+</div>  
 
 ###
 
