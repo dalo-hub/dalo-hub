@@ -13,19 +13,13 @@ I enjoy taking on new challenges, learning from every experience, and contributi
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/dalo-hub?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 
-## 🌟 About Me
-
-- 🚀 Frontend-focused Systems Engineer
-
-- 🎨 Passionate about design systems, clean architectures, and accessible UIs
-
-- 🧪 Improving daily through testing, patterns, and better developer experience
-
-- 🛠 Always refining my environment (Arch btw)
-
-- 🤓 I genuinely enjoy learning — especially the small details that most people ignore
+---
 
 ## 🛠️ My Tech Stack
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalo-hub&layout=donut"  />
+
+###
 
 <div align="left">
   <h3>Core Technologies</h3>
@@ -65,7 +59,7 @@ I enjoy taking on new challenges, learning from every experience, and contributi
   <img width="6" />
 </div>
 
-<br>
+###
 
 <div align="left">
   <h3>Currently Learning</h3>
@@ -82,35 +76,4 @@ I enjoy taking on new challenges, learning from every experience, and contributi
   <img height="30" src="https://cdn.simpleicons.org/typescript" alt="TypeScript logo"  />
 </div>
 
-<br>
-
-<div align="left">
-  <h3>My Development Environment</h3>
-  <img height="30" src="https://cdn.simpleicons.org/thinkpad" alt="Thinkpad logo"  />
-  <img width="6" />
-  <img height="30" src="https://cdn.simpleicons.org/archlinux" alt="Archlinux logo"  />
-  <img width="6" />
-  <img height="30" src="https://cdn.simpleicons.org/hyprland" alt="Hyprland logo"  />
-  <img width="6" />
-  <img height="30" src="https://cdn.simpleicons.org/brave" alt="Brave logo"  />
-  <img width="6" />
-  <img height="30" src="https://sw.kovidgoyal.net/kitty/_static/kitty.svg" alt="Kitty logo"  />  
-  <img width="6" />
-  <!--TEMPORAL-->
-  <img height="30" src="https://cdn.simpleicons.org/vscodium" alt="Vscodium logo"  />
-  <img width="6" />
-  <img height="30" src="https://cdn.simpleicons.org/githubcopilot/000000/FFFFFF" alt="V0 logo"  />
-  <img width="6" />
-  <img height="30" src="https://cdn.simpleicons.org/v0/000000/FFFFFF" alt="V0 logo"  />
-</div>
-
-<br>
-
-<div align="left">
-  <h3>My learning platforms</h3>
-  <img height="30" src="https://cdn.simpleicons.org/udemy" alt="Udemy logo"  />
-  <img width="6" />
-  <img height="30" src="https://cdn.simpleicons.org/platzi" alt="Platzi logo"  />
-  <img width="6" />
-  <img height="30" src="https://cdn.simpleicons.org/roadmapdotsh/000000/FFFFFF" alt="Roadmap.sh logo"  />
-</div>
+###
