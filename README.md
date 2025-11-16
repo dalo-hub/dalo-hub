@@ -77,3 +77,19 @@ I enjoy taking on new challenges, learning from every experience, and contributi
 </div>
 
 ###
+
+## My dev environment
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalo-hub&layout=donut"  />
+
+<div align="left">
+
+- **Device:** Thinkpad T480 <img src="https://cdn.simpleicons.org/thinkpad" alt="Thinkpad" align=center height=30>
+- **OS:** Linux <img src="https://cdn.simpleicons.org/linux" alt="Linux" align=center height=30>
+- **Distro:** Archlinux <img src="https://cdn.simpleicons.org/archlinux" alt="Archlinux" align=center height=30>
+- **Window Manager:** Hyprland <img src="https://cdn.simpleicons.org/hyprland" alt="Hyprland" align=center height=30>
+- **Browser:** Brave <img src="https://cdn.simpleicons.org/brave" alt="Brave" align=center height=30>
+- **IDE:** Visual Studio Code <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="Vscode" align=center height=30 />
+- **AI Tool:** Github copitol <img src="https://cdn.simpleicons.org/githubcopilot/000/fff" alt="Copilot" align=center height=30>
+
+</div>
