@@ -17,7 +17,7 @@ I enjoy taking on new challenges, learning from every experience, and contributi
 
 ## 🛠️ My Tech Stack
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalo-hub&layout=donut-vertical"  />
+<img align="right" width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalo-hub&layout=donut-vertical&theme=transparent"  />
 
 ###
 
