@@ -13,6 +13,11 @@ I enjoy taking on new challenges, learning from every experience, and contributi
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/dalo-hub?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dalo-hub&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=dalo-hub&locale=en&mode=daily&theme=transparent" alt="streak graph"  />
+</div>
+
 ---
 
 ## 🛠️ My Tech Stack
