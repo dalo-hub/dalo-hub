@@ -14,8 +14,8 @@ I enjoy taking on new challenges, learning from every experience, and contributi
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dalo-hub&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=dalo-hub&locale=en&mode=daily&theme=transparent" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=dalo-hub&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=dalo-hub&locale=en&mode=daily&theme=transparent" height="150" alt="streak graph"  />
 </div>
 
 ---
