@@ -13,10 +13,6 @@ I enjoy taking on new challenges, learning from every experience, and contributi
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/dalo-hub?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dalo-hub&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent" alt="stats graph"  />
-</div>
-
 ---
 
 ## 🛠️ My Tech Stack
@@ -94,12 +90,11 @@ I enjoy taking on new challenges, learning from every experience, and contributi
 <div align="left">
   <h3>My ricing</h3>
   <img src="https://cdn.simpleicons.org/thinkpad" alt="Thinkpad" align=center height=30>  <img width="10" />
-  <img src="https://cdn.simpleicons.org/linux" alt="Linux" align=center height=30>  <img width="10" />
+  <img src="https://cdn.simpleicons.org/popos" alt="Pop OS" align=center height=30>  <img width="10" />
   <img src="https://cdn.simpleicons.org/archlinux" alt="Archlinux" align=center height=30>  <img width="10" />
   <img src="https://cdn.simpleicons.org/hyprland" alt="Hyprland" align=center height=30>  <img width="10" />
   <img src="https://cdn.simpleicons.org/brave" alt="Brave" align=center height=30>  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="Vscode" align=center height=30 /> <img width="10" />
-  <img src="https://cdn.simpleicons.org/githubcopilot/000/fff" alt="Copilot" align=center height=30>
 </div>
 
 <div align="left">
@@ -111,7 +106,8 @@ I enjoy taking on new challenges, learning from every experience, and contributi
 
 <div align="left">
   <h3>AI tools I work with</h3>
-  <img src="https://cdn.simpleicons.org/openai" alt="OpenAI" align=center height=30>  <img width="10" />
+  <img src="https://cdn.simpleicons.org/githubcopilot/000/fff" alt="Copilot" align=center height=30> <img width="10" />
+  <img src="https://cdn.simpleicons.org/googlegemini" alt="Google Gemini" align=center height=30>  <img width="10" />
   <img src="https://cdn.simpleicons.org/claude" alt="Claude" align=center height=30>  <img width="10" />
   <img src="https://cdn.simpleicons.org/v0/000/fff" alt="V0" align=center height=30>  <img width="10" />
 </div>
