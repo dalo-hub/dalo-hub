@@ -1,14 +1,12 @@
 # :wave: Hi there! I'm DALO
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=488207&width=435&lines=Systems+Engineer;Frontend+Developer;Linux+Enthusiast+(Arch+User+BTW)" alt="Typing SVG" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=488207&width=435&lines=Systems+Engineer;Frontend+Developer;Linux+Enthusiast+(Arch+User+BTW)" alt="Typing SVG" />
 
 ### 💻 About Me
 Systems Engineer and Frontend Developer focused on creating interfaces that are as **performant** as they are **beautiful**. I thrive on solving complex problems with clean code and modern tech stacks.
 
 * 🔭 I’m currently working on **Modern Web Solutions**
-* 🌱 I’m currently learning **Advanced Backend Patterns & UX Research**
+* 🌱 I’m currently polishing **Frontend Best Practices, Clean Code & Software Architecture**
 * 💬 Ask me about **React, Tailwind or why I use Hyprland**
 
 ---
@@ -57,31 +55,15 @@ Systems Engineer and Frontend Developer focused on creating interfaces that are 
 </div>
 
 ### 🔧 My Battle Stations
-> I believe in using the right tool for the job (and ricing them all).
 
-* **⚡ The Daily Driver (Laptop 1)**
-    * **Hardware:** ThinkPad
-    * **OS:** Arch Linux (BTW)
-    * **Environment:** Hyprland + Waybar
+* **🧪 The Laboratory (Experimentation)**
     * ![ThinkPad](https://img.shields.io/badge/ThinkPad-E0202E?logo=lenovo&logoColor=white&style=flat-square) ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=white&style=flat-square) ![Hyprland](https://img.shields.io/badge/Hyprland-00C1D4?logo=hyprland&logoColor=white&style=flat-square)
 
-* **🛠️ The Workhorse (Laptop 2)**
-    * **Hardware:** MSI Gaming
-    * **OS:** Pop!_OS
-    * ![MSI](https://img.shields.io/badge/MSI-FF0000?logo=msi&logoColor=white&style=flat-square) ![Pop!_OS](https://img.shields.io/badge/Pop!_OS-48B9C7?logo=pop!_os&logoColor=white&style=flat-square) ![Brave](https://img.shields.io/badge/Brave-FB542B?logo=brave&logoColor=white&style=flat-square)
+* **💼 The Daily Workhorse (Stable Work)**
+    * ![MSI](https://img.shields.io/badge/MSI-FF0000?logo=msi&logoColor=white&style=flat-square) ![Pop!_OS](https://img.shields.io/badge/Pop!_OS-48B9C7?logo=pop!_os&logoColor=white&style=flat-square) ![Cosmic](https://img.shields.io/badge/Cosmic-000000?logo=system76&logoColor=white&style=flat-square)
 
-* **🎮 The Powerhouse (Desktop)**
-    * **OS:** Bazzite (Immutable Fedora)
-    * **Usage:** Productivity & Gaming
-    * ![Fedora](https://img.shields.io/badge/Bazzite_/_Fedora-51A2DA?logo=fedora&logoColor=white&style=flat-square) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square)
-
----
-
-### 🧠 Ecosystem & Learning
-| Category | Tools |
-| :--- | :--- |
-| **AI Assistants** | ![Copilot](https://img.shields.io/badge/Copilot-8E75C2?logo=github-copilot&logoColor=white&style=flat-square) ![Gemini](https://img.shields.io/badge/Gemini-8E75C2?logo=google-gemini&logoColor=white&style=flat-square) ![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=white&style=flat-square) ![V0](https://img.shields.io/badge/V0-000000?logo=v0&logoColor=white&style=flat-square) |
-| **Learning** | ![Udemy](https://img.shields.io/badge/Udemy-A435F0?logo=udemy&logoColor=white&style=flat-square) ![Platzi](https://img.shields.io/badge/Platzi-98CA3F?logo=platzi&logoColor=white&style=flat-square) ![Roadmap.sh](https://img.shields.io/badge/Roadmap.sh-000000?logo=roadmap.sh&logoColor=white&style=flat-square) |
+* **🎮 The Powerhouse (Gaming & Media)**
+    * ![Desktop PC](https://img.shields.io/badge/Custom_PC-444444?logo=desktop&logoColor=white&style=flat-square) ![Bazzite](https://img.shields.io/badge/Bazzite_/_Fedora-51A2DA?logo=fedora&logoColor=white&style=flat-square) ![KDE Plasma](https://img.shields.io/badge/KDE_Plasma-1C71AF?logo=kde&logoColor=white&style=flat-square)
 
 ---
 
