@@ -1,6 +1,6 @@
 # :wave: Hi there! I'm DALO
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=488207&width=435&lines=Systems+Engineer;Frontend+Developer;Linux+Enthusiast+(Arch+User+BTW)" alt="Typing SVG" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&duration=3500&pause=1000&center=true&width=1000&lines=Systems+Engineer;Frontend+Developer;Linux+Enthusiast)](https://git.io/typing-svg)
 
 ### 💻 About Me
 Systems Engineer and Frontend Developer focused on creating interfaces that are as **performant** as they are **beautiful**. I thrive on solving complex problems with clean code and modern tech stacks.
@@ -12,13 +12,6 @@ Systems Engineer and Frontend Developer focused on creating interfaces that are 
 ---
 
 ## 🛠️ My Tech Stack
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=dalo-hub&show_icons=true&theme=transparent&hide_border=true&title_color=55960c&icon_color=488207" alt="DALO's Stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalo-hub&layout=donut-vertical&theme=transparent&hide_border=true&title_color=55960c" alt="Top Langs" />
-</div>
-
-<br/>
 
 ### 🎨 Structure & Styling
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
