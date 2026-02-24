@@ -45,7 +45,7 @@ Systems Engineer and Frontend Developer focused on creating interfaces that are 
 ## 🖥️ The Lab: Hardware & OS
 
 <div align="center">
-  <img src="./ricing.jpg" width="85%" style="border-radius: 10px;" />
+  <img src="./setup.jpeg" width="85%" style="border-radius: 10px;" />
 </div>
 
 ### 🔧 My Battle Stations
