@@ -1,6 +1,6 @@
 # :wave: Hi there! I'm DALO
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&duration=3500&pause=1000&center=true&width=1000&lines=Systems+Engineer;Frontend+Developer;Linux+Enthusiast)](https://git.io/typing-svg)
+```Systems Engineer - Frotend Developer - Linux Enthusiast```
 
 ### 💻 About Me
 Systems Engineer and Frontend Developer focused on creating interfaces that are as **performant** as they are **beautiful**. I thrive on solving complex problems with clean code and modern tech stacks.
