@@ -7,7 +7,7 @@ Systems Engineer and Frontend Developer focused on creating interfaces that are 
 
 * 🔭 I’m currently working on **Modern Web Solutions**
 * 🌱 I’m currently polishing **Frontend Best Practices, Clean Code & Software Architecture**
-* 💬 Ask me about **React, Tailwind or why I use Hyprland**
+* 💬 Ask me about **React, Angular, Tailwind or why I use Hyprland**
 
 ---
 
